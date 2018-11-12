@@ -59,3 +59,6 @@ The validator will stop playing the client for 5 minutes towards the end so that
 Write documentation destined for non-technical users
 Select a WordPress theme based on client needs
 Adapt a WordPress theme to client needs
+
+# Original Presentation Video Link
+[OC Project 2 Presentation Video](https://youtu.be/JybEL31BgAI)
