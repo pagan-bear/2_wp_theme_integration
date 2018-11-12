@@ -1,0 +1,40 @@
+WordPress theme choice: Tannistha
+
+Pros:
+   * simple, clean design
+   * offers functionality to operate primarily as either a blog site or a web site
+   * very highly customisable
+   * default theme palette and overall style consistent with sites of a large number of
+     companies providing services to high-end/high net-worth clients
+   * offers separate CSS customisation widget within theme appearance  
+   * default typeface sans-serif (makes for easier web page reading experience - though
+     this can be a highly subjective aspect UX/UI design
+   * very high degree of customisability of theme elements
+   * support of banner image text
+
+Cons: 
+   * due to structure of theme and high level of customisations identification and
+     modification of various elements took more time than anticipated
+   * use of a theme specifically tailored to realty may not be the best option - more
+     generic themes might be appropriate providing greater flexibility and control of
+     site design and development
+   * need for frequent use of browser developer tools to identify specific theme elements,
+     their tags and attributes
+
+
+Site Description (User)
+A site icon has of three, green aspen trees has been added. Three and green were chosen for their association with money, success and luck, and the aspen tree as the agency portfolio pertains specifically to Aspen, Colorado.
+
+The site has been developed on a "plain" white (#FFFFFF) background.  The primary colour is Benjamin Moore Deep Caviar (#4A4343) and secondary colour is merlot (#7F171F).  This colour palette has been chosen as it provides an uncluttered and clean look and feel.  To soften the “starkness” of the white page, cursive font-family has been added for H1 and H3 titles (main page section titles) and header text.  
+
+To maintain interest, a randomised header has been used and the image changes when changing pages.
+
+No background image has been applied to the site to maintain the overall clean, uncluttered look and feel.
+
+All links are in colour merlot and underscored (except for social link icons which are only in merlot).  This is to maintain a “common functionality/experience” throughout the site.
+
+All “static” text is presented in a sans-serif font to easily distinguish it from other elements of the site.
+
+Due to the lack of "depth" of the menu provided, breadcrumbs have not been used.
+
+The "Contact Us" form is replicated at the bottom of each detailed property post. This allows the client to send a request to the agency regarding the specific property being viewed.
